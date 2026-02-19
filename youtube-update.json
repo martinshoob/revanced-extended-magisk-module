@@ -1,6 +1,6 @@
 {
-  "version": "v18.45.43",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Mayster7/revanced-extended-magisk-module/releases/download/1/youtube-revanced-extended-magisk-v18.45.43-all.zip",
-  "changelog": "https://raw.githubusercontent.com/Mayster7/revanced-extended-magisk-module/update/build.md"
+  "version": "v20.14.43 (patches 5.50.2.rvp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/martinshoob/revanced-extended-magisk-module/releases/download/2/youtube-revanced-magisk-v20.14.43-all.zip",
+  "changelog": "https://raw.githubusercontent.com/martinshoob/revanced-extended-magisk-module/update/build.md"
 }

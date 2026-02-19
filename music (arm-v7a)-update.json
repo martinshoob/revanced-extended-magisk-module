@@ -1,6 +1,6 @@
 {
-  "version": "v6.31.55",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/Mayster7/revanced-extended-magisk-module/releases/download/1/music-revanced-extended-magisk-v6.31.55-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/Mayster7/revanced-extended-magisk-module/update/build.md"
+  "version": "v8.10.52 (patches 5.50.2.rvp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/martinshoob/revanced-extended-magisk-module/releases/download/2/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/martinshoob/revanced-extended-magisk-module/update/build.md"
 }
